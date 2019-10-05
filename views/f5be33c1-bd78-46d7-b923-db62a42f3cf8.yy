@@ -13,7 +13,6 @@
         "ac4495b8-9a3c-4e94-9270-607ee9fb3ccf",
         "36f8e99d-8b1f-45bb-921f-ac2ae9bd0dfb",
         "d5353207-a6fc-4889-b506-e00b96f78e60"
-        "9bb2681b-0d3d-41ea-a0bf-d48651540c72"
     ],
     "filterType": "GMObject",
     "folderName": "Shapes Level",
